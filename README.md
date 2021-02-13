@@ -1,6 +1,6 @@
 # В разработке
 
-# TodoList v.0.0.12 написан на React 
+# TodoList v.0.0.12 написан на React.js 
 
 # используемые технологии: 
 HTML, CSS, Bootstrap, react.js

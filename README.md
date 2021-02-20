@@ -6,19 +6,14 @@ HTML, CSS, Bootstrap, React.js
 ## Используемые модули
 react, react-dom, bootstrap.
 
-## Available Scripts
+## Запуск проекта
 
 ### `npm start`
+Запуск сборки разработчика
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `build` +  `serve -s build`
+Запуск production сборки
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `serve -s build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
 

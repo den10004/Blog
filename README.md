@@ -11,7 +11,7 @@ react, react-dom, bootstrap.
 ### `npm start`
 Запуск сборки разработчика
 
-### `build` +  `serve -s build`
+### `npm build` +  `serve -s build`
 Запуск production сборки
 
 
